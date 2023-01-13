@@ -2,3 +2,4 @@ creds.py
 Pipfile
 Pipfile.lock
 worker.py
+.ipynb_checkpoints
