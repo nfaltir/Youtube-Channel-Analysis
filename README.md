@@ -18,3 +18,14 @@
 
 url: https://developers.google.com/resources/api-libraries/documentation/youtube/v3/python/latest/
 
+
+## Installing pandas-profiling
+
+```jupyter
+
+#in notebook
+
+import sys
+!{sys.executable} -m pip install pandas-profiling
+
+```
