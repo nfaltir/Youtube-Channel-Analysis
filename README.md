@@ -29,3 +29,43 @@ import sys
 !{sys.executable} -m pip install pandas-profiling
 
 ```
+
+
+
+```
+
+Summary Stats
+
+Total Views: 22,277,726 
+Total Subs: 298,000 
+Total Videos: 132
+Total Channel Likes: 554,978
+Total Channel Comments: 121,920
+
+Average Summary
+
+Average Views per video: 169,739.97
+Average Likes per video: 4,236.47
+Average Comments per video: 930.69
+
+```
+
+
+
+```
+Summary Stats
+
+Total Views: 23,203,768 
+Total Subs: 306,000 
+Total Videos: 135
+Total Channel Likes: 575,840
+Total Channel Comments: 126,554
+
+Average Summary
+
+Average Views per video: 173,151.99
+Average Likes per video: 4,297.31
+Average Comments per video: 944.43
+
+Date=1/28/23
+```
